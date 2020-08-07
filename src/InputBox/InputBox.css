@@ -1,0 +1,12 @@
+.input-box{
+    margin:0px 10px;
+}
+label{
+    display: inline-block;
+    width: 100px;
+}
+.input-container{
+    margin-bottom: 25px;
+    position: relative;
+}
+
